@@ -1,0 +1,13 @@
+{
+  "name": "alexthaler.com",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt-rsync": "~0.1.1",
+    "grunt-contrib-sass": "~0.3.0",
+    "shell": "~0.3.2",
+    "shelljs": "~0.1.2"
+  }
+}
